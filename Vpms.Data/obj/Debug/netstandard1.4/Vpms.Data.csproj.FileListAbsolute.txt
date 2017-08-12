@@ -1,0 +1,8 @@
+D:\Chetu VPMS\VPMS API\Vpms.Data\bin\Debug\netstandard1.4\Vpms.Data.deps.json
+D:\Chetu VPMS\VPMS API\Vpms.Data\bin\Debug\netstandard1.4\Vpms.Data.dll
+D:\Chetu VPMS\VPMS API\Vpms.Data\bin\Debug\netstandard1.4\Vpms.Data.pdb
+D:\Chetu VPMS\VPMS API\Vpms.Data\bin\Debug\netstandard1.4\Vpms.Model.dll
+D:\Chetu VPMS\VPMS API\Vpms.Data\bin\Debug\netstandard1.4\Vpms.Model.pdb
+D:\Chetu VPMS\VPMS API\Vpms.Data\obj\Debug\netstandard1.4\Vpms.Data.AssemblyInfo.cs
+D:\Chetu VPMS\VPMS API\Vpms.Data\obj\Debug\netstandard1.4\Vpms.Data.dll
+D:\Chetu VPMS\VPMS API\Vpms.Data\obj\Debug\netstandard1.4\Vpms.Data.pdb
