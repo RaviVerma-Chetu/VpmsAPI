@@ -36,6 +36,10 @@ namespace Vpms.API
             // Add framework services.
             services.AddMvc();
 
+            services.AddCors(options => options.AddPolicy("AllowAll", p => p.AllowAnyOrigin()
+                                                                    .AllowAnyMethod()
+                                                                     .AllowAnyHeader()));
+
             services.AddScoped<IAccountRepository, AccountRepository>();
             services.AddTransient<IAuthService, AuthService>();
         }
@@ -45,6 +49,8 @@ namespace Vpms.API
         {
             loggerFactory.AddConsole(Configuration.GetSection("Logging"));
             loggerFactory.AddDebug();
+
+            app.UseCors("AllowAll");
 
             app.UseMvc();
         }
