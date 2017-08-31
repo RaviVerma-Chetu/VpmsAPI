@@ -15,6 +15,8 @@ namespace Vpms.Data.Implementation
         public int Register(RegisterRequest registerRequest)
         {
             User user = new User();
+            user.FirstName=registerRequest.Firstname;
+            user.LastName=registerRequest.Lastname;
             user.Username = registerRequest.Username;
             user.Email = registerRequest.Email;
             user.Password = registerRequest.Password;

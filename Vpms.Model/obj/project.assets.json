@@ -1144,106 +1144,106 @@
   },
   "libraries": {
     "Microsoft.EntityFrameworkCore/1.1.2": {
-      "sha512": "2oY1cQ3DEhpbRjlDBE1zb7IngKyPC4fslAX5WL1mnVQOLX/8BPOAjgYM2inzNK2z8ld/DxBUZEwc3xfNc8qhbw==",
+      "sha512": "fl45mGl6V0znTw0/g4YMEXldbfD59y+IVUjeVhuNCo/NberJFTe7tf4Kg/rN0nJZA6WwtjIS1gMLrj6P3g/U0Q==",
       "type": "package",
       "path": "microsoft.entityframeworkcore/1.1.2",
       "files": [
-        "Microsoft.EntityFrameworkCore.1.1.2.nupkg.sha512",
-        "Microsoft.EntityFrameworkCore.nuspec",
         "lib/net451/Microsoft.EntityFrameworkCore.dll",
         "lib/net451/Microsoft.EntityFrameworkCore.xml",
         "lib/netstandard1.3/Microsoft.EntityFrameworkCore.dll",
-        "lib/netstandard1.3/Microsoft.EntityFrameworkCore.xml"
+        "lib/netstandard1.3/Microsoft.EntityFrameworkCore.xml",
+        "microsoft.entityframeworkcore.1.1.2.nupkg.sha512",
+        "microsoft.entityframeworkcore.nuspec"
       ]
     },
     "Microsoft.Extensions.Caching.Abstractions/1.1.1": {
-      "sha512": "Lw+ouO/1uedLf2QVWmH5K9aNs9ctsSiKez2E7awn+im9hy+HBa8lrOLE8FDyLs0l1uROSAmBWowJsTxW7YrKfw==",
+      "sha512": "5Ll69b2mk5vRMUgDbf0BWIYN3RkXdtNb+MB2GOhkxhq6Zldq8hpj+zN/gAs01JOcM8M/lkGAgxjzxh69QKK+Hg==",
       "type": "package",
       "path": "microsoft.extensions.caching.abstractions/1.1.1",
       "files": [
+        "Microsoft.Extensions.Caching.Abstractions.1.1.1.nupkg.sha512",
+        "Microsoft.Extensions.Caching.Abstractions.nuspec",
         "lib/netstandard1.0/Microsoft.Extensions.Caching.Abstractions.dll",
-        "lib/netstandard1.0/Microsoft.Extensions.Caching.Abstractions.xml",
-        "microsoft.extensions.caching.abstractions.1.1.1.nupkg.sha512",
-        "microsoft.extensions.caching.abstractions.nuspec"
+        "lib/netstandard1.0/Microsoft.Extensions.Caching.Abstractions.xml"
       ]
     },
     "Microsoft.Extensions.Caching.Memory/1.1.1": {
-      "sha512": "+XtbHlX+p34sKXVjQCcedRgzJQxYcCqS1V0ZbW8AjreQKUZr/dSakefpBZ87/+WQtWndUkMPojYsmCK34bAJqQ==",
+      "sha512": "E35yEKFOc8Q/Ocfg5QDdcp/1nzUtycDzJjvUJU3R1iDp/iNl3/qDCyOWmU8CjbtrsD1CpAbvGdwOMJTOw3fqcw==",
       "type": "package",
       "path": "microsoft.extensions.caching.memory/1.1.1",
       "files": [
+        "Microsoft.Extensions.Caching.Memory.1.1.1.nupkg.sha512",
+        "Microsoft.Extensions.Caching.Memory.nuspec",
         "lib/net451/Microsoft.Extensions.Caching.Memory.dll",
         "lib/net451/Microsoft.Extensions.Caching.Memory.xml",
         "lib/netstandard1.3/Microsoft.Extensions.Caching.Memory.dll",
-        "lib/netstandard1.3/Microsoft.Extensions.Caching.Memory.xml",
-        "microsoft.extensions.caching.memory.1.1.1.nupkg.sha512",
-        "microsoft.extensions.caching.memory.nuspec"
+        "lib/netstandard1.3/Microsoft.Extensions.Caching.Memory.xml"
       ]
     },
     "Microsoft.Extensions.DependencyInjection/1.1.0": {
-      "sha512": "t0l2GZiXPczWR2m4tl42h/tLF9Kf/cyC53GMXTbRoUCeLy26Ya/E+wvDEfCdWzub82eozLpcsWULLfRqNi2OUw==",
+      "sha512": "meG2tsLdHT0SROqxGBiY8A6XUKlwsQVj1N9cyrS+ZJd1MKhoSaw54KuSH6PmpCB/K/ifkR7o9yVVVamu9XZyeg==",
       "type": "package",
       "path": "microsoft.extensions.dependencyinjection/1.1.0",
       "files": [
+        "Microsoft.Extensions.DependencyInjection.1.1.0.nupkg.sha512",
+        "Microsoft.Extensions.DependencyInjection.nuspec",
         "lib/netstandard1.1/Microsoft.Extensions.DependencyInjection.dll",
-        "lib/netstandard1.1/Microsoft.Extensions.DependencyInjection.xml",
-        "microsoft.extensions.dependencyinjection.1.1.0.nupkg.sha512",
-        "microsoft.extensions.dependencyinjection.nuspec"
+        "lib/netstandard1.1/Microsoft.Extensions.DependencyInjection.xml"
       ]
     },
     "Microsoft.Extensions.DependencyInjection.Abstractions/1.1.0": {
-      "sha512": "ePsHmmNsle4CIiq41xtx/1goExSN/2LqWdjWXoYgGrLwEAvAkaXyjotaVNKJuhEUgmCIQnLac9R1tnV2cgDE9g==",
+      "sha512": "2luhjVaWZd8Wmr2KUJcLNAN+iZgezTyfamLG6Lo5FVYY1LYaS7UFOmNtApHGVIytWWtuXSk4ea0t2Vx0HgF5fg==",
       "type": "package",
       "path": "microsoft.extensions.dependencyinjection.abstractions/1.1.0",
       "files": [
+        "Microsoft.Extensions.DependencyInjection.Abstractions.1.1.0.nupkg.sha512",
+        "Microsoft.Extensions.DependencyInjection.Abstractions.nuspec",
         "lib/netstandard1.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
-        "lib/netstandard1.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
-        "microsoft.extensions.dependencyinjection.abstractions.1.1.0.nupkg.sha512",
-        "microsoft.extensions.dependencyinjection.abstractions.nuspec"
+        "lib/netstandard1.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml"
       ]
     },
     "Microsoft.Extensions.Logging/1.1.1": {
-      "sha512": "uOd5ohFy4GsXZRwr55GaX86GIHuvdjOSHbhxBOZ/lyMRXSQIoV3CMuoo8Tmu/Z1KgMxSkt5LeGFRnIXoRpEIPw==",
+      "sha512": "cxLG416uOEFmnv7w4/rsVKD4dRYFuUY+G5WXpLVLMNIL6VYcQkDe67cx2IWBrtUieA08w9eCuxrd2pxIrJ7Wtg==",
       "type": "package",
       "path": "microsoft.extensions.logging/1.1.1",
       "files": [
+        "Microsoft.Extensions.Logging.1.1.1.nupkg.sha512",
+        "Microsoft.Extensions.Logging.nuspec",
         "lib/netstandard1.1/Microsoft.Extensions.Logging.dll",
-        "lib/netstandard1.1/Microsoft.Extensions.Logging.xml",
-        "microsoft.extensions.logging.1.1.1.nupkg.sha512",
-        "microsoft.extensions.logging.nuspec"
+        "lib/netstandard1.1/Microsoft.Extensions.Logging.xml"
       ]
     },
     "Microsoft.Extensions.Logging.Abstractions/1.1.1": {
-      "sha512": "Rpw9Rqds13wKuo9ue0ayXwPFcsCYZPmCGzvyMtvUoRqjlOtb9I+UZxAE0QZz9O3Wtiy1mjdkSpV+I4CR7H5PaA==",
+      "sha512": "MMWQNrwQKrSigIaGpPWIK9ZZCNd9aaCHaLgwfPiJNdOfU3UE+RA093YZ7B879MdZ1qSFPcS1QLLNjD+dxXX7Aw==",
       "type": "package",
       "path": "microsoft.extensions.logging.abstractions/1.1.1",
       "files": [
+        "Microsoft.Extensions.Logging.Abstractions.1.1.1.nupkg.sha512",
+        "Microsoft.Extensions.Logging.Abstractions.nuspec",
         "lib/netstandard1.1/Microsoft.Extensions.Logging.Abstractions.dll",
-        "lib/netstandard1.1/Microsoft.Extensions.Logging.Abstractions.xml",
-        "microsoft.extensions.logging.abstractions.1.1.1.nupkg.sha512",
-        "microsoft.extensions.logging.abstractions.nuspec"
+        "lib/netstandard1.1/Microsoft.Extensions.Logging.Abstractions.xml"
       ]
     },
     "Microsoft.Extensions.Options/1.1.1": {
-      "sha512": "arMycikO3RRAE1wUfbbxshZKwrpzywTnweYTO8BAIy8zHawni8268Z8gYK5mcpbnWDOm8QiZW4sTJFervopFAw==",
+      "sha512": "G6+0sSQV81xYe0FYiraB3nt6Bnb2L8S+e87UrhasxbqFVKjnTeHEfEae3qNvoG30zp8jTFf7E25e05Lv9VIP5w==",
       "type": "package",
       "path": "microsoft.extensions.options/1.1.1",
       "files": [
+        "Microsoft.Extensions.Options.1.1.1.nupkg.sha512",
+        "Microsoft.Extensions.Options.nuspec",
         "lib/netstandard1.0/Microsoft.Extensions.Options.dll",
-        "lib/netstandard1.0/Microsoft.Extensions.Options.xml",
-        "microsoft.extensions.options.1.1.1.nupkg.sha512",
-        "microsoft.extensions.options.nuspec"
+        "lib/netstandard1.0/Microsoft.Extensions.Options.xml"
       ]
     },
     "Microsoft.Extensions.Primitives/1.1.0": {
-      "sha512": "qse/d714tf53jlVxZVidHshbsX0yYaJk1wjyC6z8HCzquTzBhuTaLA6O76zm/EPpowM00FBssj5lHVa/4eL72A==",
+      "sha512": "GhQG5CBUR9/czBLTblt1giKBkfvHVDeppWd6KIgPyexrspECqzzSW5IXe0STTTs2NlUp9vIFwjSWG8O9c74R9g==",
       "type": "package",
       "path": "microsoft.extensions.primitives/1.1.0",
       "files": [
+        "Microsoft.Extensions.Primitives.1.1.0.nupkg.sha512",
+        "Microsoft.Extensions.Primitives.nuspec",
         "lib/netstandard1.0/Microsoft.Extensions.Primitives.dll",
-        "lib/netstandard1.0/Microsoft.Extensions.Primitives.xml",
-        "microsoft.extensions.primitives.1.1.0.nupkg.sha512",
-        "microsoft.extensions.primitives.nuspec"
+        "lib/netstandard1.0/Microsoft.Extensions.Primitives.xml"
       ]
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
@@ -1693,25 +1693,27 @@
       ]
     },
     "System.Collections.Immutable/1.3.0": {
-      "sha512": "NO+FUpMLj02lkfy1nJsjKtbADKoHIova42bq5ugcoerzEGdfPC+8uoVjSzRPPpR68Kg9j2rRjNLpTJOHTECpcw==",
+      "sha512": "zukBRPUuNxwy9m4TGWLxKAnoiMc9+B+8VXeXVyPiBPvOd7yLgAlZ1DlsRWJjMx4VsvhhF2+6q6kO2GRbPja6hA==",
       "type": "package",
       "path": "system.collections.immutable/1.3.0",
       "files": [
+        "System.Collections.Immutable.1.3.0.nupkg.sha512",
+        "System.Collections.Immutable.nuspec",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/System.Collections.Immutable.dll",
         "lib/netstandard1.0/System.Collections.Immutable.xml",
         "lib/portable-net45+win8+wp8+wpa81/System.Collections.Immutable.dll",
-        "lib/portable-net45+win8+wp8+wpa81/System.Collections.Immutable.xml",
-        "system.collections.immutable.1.3.0.nupkg.sha512",
-        "system.collections.immutable.nuspec"
+        "lib/portable-net45+win8+wp8+wpa81/System.Collections.Immutable.xml"
       ]
     },
     "System.ComponentModel/4.3.0": {
-      "sha512": "4rtplDYymojz4wt6u8ADW4Pj9QQRMj2gwY4VIGTSgkoPKjaadKmGZA6we3XInBBR0A/VlArPcfc2qq8O0IliPA==",
+      "sha512": "VyGn1jGRZVfxnh8EdvDCi71v3bMXrsu8aYJOwoV7SNDLVhiEqwP86pPMyRGsDsxhXAm2b3o9OIqeETfN5qfezw==",
       "type": "package",
       "path": "system.componentmodel/4.3.0",
       "files": [
+        "System.ComponentModel.4.3.0.nupkg.sha512",
+        "System.ComponentModel.nuspec",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -1759,13 +1761,11 @@
         "ref/xamarinios10/_._",
         "ref/xamarinmac20/_._",
         "ref/xamarintvos10/_._",
-        "ref/xamarinwatchos10/_._",
-        "system.componentmodel.4.3.0.nupkg.sha512",
-        "system.componentmodel.nuspec"
+        "ref/xamarinwatchos10/_._"
       ]
     },
     "System.ComponentModel.Annotations/4.3.0": {
-      "sha512": "8gcQ1GadseD039q6M+dfpUSHqN5QAqM7riL844WR114meldZKxzv42izU9lMcVVBUF74SsITZ22kDkSsazonQA==",
+      "sha512": "333KZy0kF7Klf/Eu1kHHr4rFnNNdz8nXtUUIKDggEIjwQnCIfHFlDQM3MChoEzjl8CLfgOq6FxeE8k2PZEh3Dg==",
       "type": "package",
       "path": "system.componentmodel.annotations/4.3.0",
       "files": [
@@ -2631,7 +2631,7 @@
       ]
     },
     "System.Linq.Queryable/4.3.0": {
-      "sha512": "Boz52m6dy9tDQ03qOVdAm3TOvVehFPoW9bw1Q1iYwmImAqlNRLVE0e6XBMAjmn3hN+pSMBG3IS8WC8T1ILAILw==",
+      "sha512": "Kiqh9IjFmH/iVSBfpfzIYaTfHZPfLAj4YICRQcr1agGHZdlrcODfRdefIjBBNPdTpG5fQN2IIPBax7s40FI2Pw==",
       "type": "package",
       "path": "system.linq.queryable/4.3.0",
       "files": [
@@ -3283,16 +3283,16 @@
       ]
     },
     "System.Runtime.CompilerServices.Unsafe/4.3.0": {
-      "sha512": "2dEwMtqNA0Y0kXQj7pyYqSkwekOPAMLlSOwEkUnkjVcta5i2v2/Ipwx+qmeo7qA2WNGKNkFPUBXo54CpVaXQag==",
+      "sha512": "rcnXA1U9W3QUtMSGoyoNHH6w4V5Rxa/EKXmzpORUYlDAlDB34hIQoU57ATXl8xHa83VvzRm6PcElEizgUd7U5w==",
       "type": "package",
       "path": "system.runtime.compilerservices.unsafe/4.3.0",
       "files": [
+        "System.Runtime.CompilerServices.Unsafe.4.3.0.nupkg.sha512",
+        "System.Runtime.CompilerServices.Unsafe.nuspec",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll",
-        "lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.xml",
-        "system.runtime.compilerservices.unsafe.4.3.0.nupkg.sha512",
-        "system.runtime.compilerservices.unsafe.nuspec"
+        "lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.xml"
       ]
     },
     "System.Runtime.Extensions/4.3.0": {
@@ -4311,21 +4311,21 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\siddharthm\\.nuget\\packages\\": {}
+    "C:\\Users\\faisals\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Chetu VPMS\\VPMS API\\Vpms.Model\\Vpms.Model.csproj",
+      "projectUniqueName": "d:\\VpmsAPI-master\\VpmsAPI-master\\VpmsAPI\\Vpms.Model\\Vpms.Model.csproj",
       "projectName": "Vpms.Model",
-      "projectPath": "d:\\Chetu VPMS\\VPMS API\\Vpms.Model\\Vpms.Model.csproj",
-      "outputPath": "d:\\Chetu VPMS\\VPMS API\\Vpms.Model\\obj\\",
+      "projectPath": "d:\\VpmsAPI-master\\VpmsAPI-master\\VpmsAPI\\Vpms.Model\\Vpms.Model.csproj",
+      "outputPath": "d:\\VpmsAPI-master\\VpmsAPI-master\\VpmsAPI\\Vpms.Model\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netstandard1.4"
       ],
       "files": {
-        "lib/netstandard1.4/Vpms.Model.dll": "d:\\Chetu VPMS\\VPMS API\\Vpms.Model\\bin\\placeholder\\netstandard1.4\\Vpms.Model.dll"
+        "lib/netstandard1.4/Vpms.Model.dll": "d:\\VpmsAPI-master\\VpmsAPI-master\\VpmsAPI\\Vpms.Model\\bin\\placeholder\\netstandard1.4\\Vpms.Model.dll"
       },
       "frameworks": {
         "netstandard1.4": {

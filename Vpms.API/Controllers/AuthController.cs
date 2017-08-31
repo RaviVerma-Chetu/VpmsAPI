@@ -31,6 +31,7 @@ namespace Vpms.API.Controllers
             return Unauthorized();
         }
 
+
         [HttpPost("Register")]
         public IActionResult Register([FromBody]RegisterRequest model)
         {

@@ -4,3 +4,9 @@ D:\Chetu VPMS\VPMS API\Vpms.Model\bin\Debug\netstandard1.4\Vpms.Model.pdb
 D:\Chetu VPMS\VPMS API\Vpms.Model\obj\Debug\netstandard1.4\Vpms.Model.AssemblyInfo.cs
 D:\Chetu VPMS\VPMS API\Vpms.Model\obj\Debug\netstandard1.4\Vpms.Model.dll
 D:\Chetu VPMS\VPMS API\Vpms.Model\obj\Debug\netstandard1.4\Vpms.Model.pdb
+D:\VpmsAPI-master\VpmsAPI-master\VpmsAPI\Vpms.Model\bin\Debug\netstandard1.4\Vpms.Model.deps.json
+D:\VpmsAPI-master\VpmsAPI-master\VpmsAPI\Vpms.Model\bin\Debug\netstandard1.4\Vpms.Model.dll
+D:\VpmsAPI-master\VpmsAPI-master\VpmsAPI\Vpms.Model\bin\Debug\netstandard1.4\Vpms.Model.pdb
+D:\VpmsAPI-master\VpmsAPI-master\VpmsAPI\Vpms.Model\obj\Debug\netstandard1.4\Vpms.Model.AssemblyInfo.cs
+D:\VpmsAPI-master\VpmsAPI-master\VpmsAPI\Vpms.Model\obj\Debug\netstandard1.4\Vpms.Model.dll
+D:\VpmsAPI-master\VpmsAPI-master\VpmsAPI\Vpms.Model\obj\Debug\netstandard1.4\Vpms.Model.pdb
