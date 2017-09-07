@@ -16,9 +16,18 @@ namespace Vpms.Business.Implementation
             return accountRepository.Register(registerRequest);
         }
 
-        public int Login(LoginRequest loginRequest)
+        public int Login(LoginRequest loginRequest,out string tokenId)
         {            
-            return accountRepository.Login(loginRequest);
+            if( accountRepository.Login(loginRequest)==1)
+            {
+               tokenId= accountRepository.AssignedToken(Guid.NewGuid().ToString(),loginRequest.Username);
+               return 1;
+            }
+            else
+            {
+                tokenId=string.Empty;
+                return 0;
+            }
             // Check if login successful, then create a new token and save it DB and return it to user
         }
     }

@@ -35,5 +35,16 @@ namespace Vpms.Data.Implementation
             }
             return 0;
         }
+
+         public string AssignedToken(string tokenId,string  userName)
+         {
+             Token token=new Token();
+             token.UserName=userName;
+             token.TokenId=tokenId;
+             token.TokenExpireDate=DateTime.Now;
+             context.Token.Add(token);
+             context.SaveChanges();
+             return tokenId;
+         }
     }
 }

@@ -21,9 +21,10 @@ namespace Vpms.API.Controllers
         [HttpPost("Login")]
         public IActionResult Login([FromBody]LoginRequest model){
             AuthResponse response = new AuthResponse();
-            if (userService.Login(model) != 0)
+            string tokenId=string.Empty;
+            if (userService.Login(model,out tokenId) != 0)
             {
-                response.Token = "token";
+                response.Token = tokenId;
                 response.IsAuthenticated = true;
                 return Ok(response);
             }

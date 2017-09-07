@@ -7,6 +7,6 @@ namespace Vpms.Business
     {
         int Register(RegisterRequest registerRequest);
 
-        int Login(LoginRequest loginRequest);
+        int Login(LoginRequest loginRequest,out string tokenId);
     }
 }

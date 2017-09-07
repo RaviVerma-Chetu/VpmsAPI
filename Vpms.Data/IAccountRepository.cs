@@ -6,5 +6,7 @@ namespace Vpms.Data
         int Register(RegisterRequest registerRequest);
 
         int Login(LoginRequest loginRequest);
+
+        string AssignedToken(string tokenId,string userName);
     }
 }

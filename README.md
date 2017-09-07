@@ -10,6 +10,8 @@ run the project: `dotnet run`
 
 
 ## Doing migration
-dotnet ef --startup-project ../Vpms.API migrations add Initial
+First go inside the Vpms.Data project. From there run following commands for migration.
+
+dotnet ef --startup-project ../Vpms.API migrations add *yourMigrationName*
 
 dotnet ef database update -s ../Vpms.API
