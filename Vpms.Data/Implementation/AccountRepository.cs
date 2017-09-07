@@ -2,6 +2,7 @@ namespace Vpms.Data.Implementation
 {
     using System;
     using Microsoft.EntityFrameworkCore;
+    using System.Linq;
     using Vpms.Model;
     using Vpms.Model.Entities;
     public class AccountRepository : IAccountRepository
@@ -24,6 +25,15 @@ namespace Vpms.Data.Implementation
 
             context.User.Add(user);
             return context.SaveChanges();
+        }
+
+        public int Login(LoginRequest loginRequest){
+            var user = context.User.Where(u => u.Username == loginRequest.Username && u.Password == loginRequest.Password)
+            .FirstOrDefault();
+            if(user != null){
+                return 1;
+            }
+            return 0;
         }
     }
 }

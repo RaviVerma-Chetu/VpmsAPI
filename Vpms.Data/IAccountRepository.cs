@@ -4,5 +4,7 @@ namespace Vpms.Data
     public interface IAccountRepository
     {
         int Register(RegisterRequest registerRequest);
+
+        int Login(LoginRequest loginRequest);
     }
 }

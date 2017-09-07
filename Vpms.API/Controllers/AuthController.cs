@@ -21,7 +21,7 @@ namespace Vpms.API.Controllers
         [HttpPost("Login")]
         public IActionResult Login([FromBody]LoginRequest model){
             AuthResponse response = new AuthResponse();
-            if (model.Username == "Chetu" && model.Password == "Chetu")
+            if (userService.Login(model) != 0)
             {
                 response.Token = "token";
                 response.IsAuthenticated = true;

@@ -15,5 +15,11 @@ namespace Vpms.Business.Implementation
         {
             return accountRepository.Register(registerRequest);
         }
+
+        public int Login(LoginRequest loginRequest)
+        {            
+            return accountRepository.Login(loginRequest);
+            // Check if login successful, then create a new token and save it DB and return it to user
+        }
     }
 }
